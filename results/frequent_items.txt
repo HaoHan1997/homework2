@@ -1,0 +1,37 @@
+frequent_item_set	support
+frozenset(['Permit_Type_Definition_otc_alterations_permit'])	0.899
+frozenset(['Permit_Type_8'])	0.899
+frozenset(['Permit_Type_8', 'Permit_Type_Definition_otc_alterations_permit'])	0.899
+frozenset(['Proposed_Construction_Type_5.0'])	0.575
+frozenset(['Existing_Construction_Type_5.0'])	0.570
+frozenset(['Existing_Construction_Type_5.0', 'Proposed_Construction_Type_5.0'])	0.563
+frozenset(['Proposed_Construction_Type_5.0', 'Permit_Type_Definition_otc_alterations_permit'])	0.514
+frozenset(['Proposed_Construction_Type_5.0', 'Permit_Type_8'])	0.514
+frozenset(['Proposed_Construction_Type_5.0', 'Permit_Type_8', 'Permit_Type_Definition_otc_alterations_permit'])	0.514
+frozenset(['Existing_Construction_Type_5.0', 'Permit_Type_8'])	0.508
+frozenset(['Existing_Construction_Type_5.0', 'Permit_Type_Definition_otc_alterations_permit'])	0.508
+frozenset(['Existing_Construction_Type_5.0', 'Permit_Type_8', 'Permit_Type_Definition_otc_alterations_permit'])	0.508
+frozenset(['Existing_Construction_Type_5.0', 'Proposed_Construction_Type_5.0', 'Permit_Type_8'])	0.508
+frozenset(['Existing_Construction_Type_5.0', 'Proposed_Construction_Type_5.0', 'Permit_Type_Definition_otc_alterations_permit'])	0.508
+frozenset(['Plansets_2.0'])	0.493
+frozenset(['Plansets_2.0', 'Permit_Type_8'])	0.397
+frozenset(['Plansets_2.0', 'Permit_Type_Definition_otc_alterations_permit'])	0.397
+frozenset(['Plansets_2.0', 'Permit_Type_8', 'Permit_Type_Definition_otc_alterations_permit'])	0.397
+frozenset(['Plansets_0.0'])	0.318
+frozenset(['Plansets_0.0', 'Permit_Type_8'])	0.315
+frozenset(['Plansets_0.0', 'Permit_Type_Definition_otc_alterations_permit'])	0.315
+frozenset(['Plansets_0.0', 'Permit_Type_8', 'Permit_Type_Definition_otc_alterations_permit'])	0.315
+frozenset(['Existing_Construction_Type_5.0', 'Plansets_0.0'])	0.287
+frozenset(['Plansets_0.0', 'Proposed_Construction_Type_5.0'])	0.287
+frozenset(['Proposed_Construction_Type_5.0', 'Plansets_2.0'])	0.287
+frozenset(['Proposed_Construction_Type_5.0', 'Permit_Type_Definition_otc_alterations_permit', 'Plansets_0.0'])	0.286
+frozenset(['Plansets_0.0', 'Permit_Type_8', 'Proposed_Construction_Type_5.0'])	0.286
+frozenset(['Existing_Construction_Type_5.0', 'Plansets_0.0', 'Proposed_Construction_Type_5.0'])	0.285
+frozenset(['Existing_Construction_Type_5.0', 'Plansets_0.0', 'Permit_Type_8'])	0.285
+frozenset(['Existing_Construction_Type_5.0', 'Plansets_0.0', 'Permit_Type_Definition_otc_alterations_permit'])	0.285
+frozenset(['Existing_Construction_Type_5.0', 'Plansets_2.0'])	0.282
+frozenset(['Existing_Construction_Type_5.0', 'Proposed_Construction_Type_5.0', 'Plansets_2.0'])	0.276
+frozenset(['Proposed_Construction_Type_5.0', 'Plansets_2.0', 'Permit_Type_Definition_otc_alterations_permit'])	0.228
+frozenset(['Proposed_Construction_Type_5.0', 'Plansets_2.0', 'Permit_Type_8'])	0.228
+frozenset(['Existing_Construction_Type_5.0', 'Plansets_2.0', 'Permit_Type_Definition_otc_alterations_permit'])	0.223
+frozenset(['Existing_Construction_Type_5.0', 'Plansets_2.0', 'Permit_Type_8'])	0.223
